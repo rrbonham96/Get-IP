@@ -4,3 +4,8 @@ Note that hosts with multiple IP addresses (i.e. www.google.com) will print out 
 
 # Usage
 `python3 get_ip.py <hostname>`
+
+# Example
+`> python3 get_ip.py localhost`
+
+`The IP address of localhost is 127.0.0.1`
